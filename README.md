@@ -2,7 +2,7 @@
 
 I am **Bernadette O. Chukwuedo**, a backend developer and an aspiring full-stack developer. I am passionate about building scalable and efficient applications, and I am always eager to collaborate with experienced developers to learn, grow, and create impactful projects. I believe in continuous learning and constantly improving my skills by working on real-world applications..
 
-![Profile](https://s3.amazonaws.com/shecodesio-production/uploads/files/000/161/262/original/wall2.png)
+![Profile](https://s3.amazonaws.com/shecodesio-production/uploads/files/000/161/266/original/softwarepro.jpg)
 
 # **PROGRAMMING LANGUAGES**
 
