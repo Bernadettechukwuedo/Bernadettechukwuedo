@@ -14,12 +14,6 @@ I am **Bernadette O. Chukwuedo**, a backend developer and an aspiring full-stack
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BernadetteChukwuedo&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BernadetteChukwuedo&show_icons=true&theme=radical)
-
----
-
 # **PROJECT**
 
 ### 🌍 Geo Ping Project(https://github.com/Bernadettechukwuedo/IT-Project.git)
@@ -42,6 +36,15 @@ I am **Bernadette O. Chukwuedo**, a backend developer and an aspiring full-stack
 
 - **Description:** This project generates random passwords based on the options being selected
 - **Tech Stack:** Python(Django)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernadetteChukwuedo&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BernadetteChukwuedo&show_icons=true&theme=radical" height="180px"/>
+</p>
+
+---
 
 # **LINKS**
 
