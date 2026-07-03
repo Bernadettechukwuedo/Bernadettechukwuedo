@@ -88,21 +88,21 @@ I'm a versatile engineer who loves working across the entire stack — from craf
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <div align="center">
 
-  <a href="https://github.com/Bernadettechukwuedo/AI-Wishlist-Generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=AI-Wishlist-Generator&theme=radical&hide_border=true" alt="Featured Project" />
-  </a>
+<a href="https://github.com/Bernadettechukwuedo/AI-Wishlist-Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=AI-Wishlist-Generator&theme=radical&hide_border=true&show_icons=true" />
+</a>
 
-  <a href="https://github.com/Bernadettechukwuedo/Textlator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=Textlator&theme=radical&hide_border=true" alt="Featured Project" />
-  </a>
+<a href="https://github.com/Bernadettechukwuedo/Textlator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=Textlator&theme=radical&hide_border=true&show_icons=true" />
+</a>
 
-  <a href="https://github.com/Bernadettechukwuedo/Bernadettes-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=Bernadettes-Portfolio&theme=radical&hide_border=true" alt="Featured Project" />
-  </a>
+<a href="https://github.com/Bernadettechukwuedo/Ping-Checker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=Ping-Checker&theme=radical&hide_border=true&show_icons=true" />
+</a>
 
 </div>
 
