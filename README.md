@@ -88,16 +88,6 @@ I'm a versatile engineer who loves working across the entire stack — from craf
 
 ---
 
-### 🚀 Featured Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=AI-Wishlist-Generator&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=Textlator&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=Bernadettes-Portfolio&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
