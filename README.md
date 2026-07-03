@@ -19,9 +19,9 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Bernadettechukwuedo&color=6A5ACD&style=flat-square" alt="Profile views" />
 
-    <a href="https://bernadettechuks.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_Portfolio-%236A5ACD.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Portfolio" />
-  </a>
+  <a href="https://bernadettechuks.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/View_My_Portfolio-%236A5ACD.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Portfolio" />
+</a>
 
 </div>
 
