@@ -92,14 +92,15 @@ I'm a versatile engineer who loves working across the entire stack — from craf
 
 <div align="center">
 
-  <a href="https://github.com/Bernadettechukwuedo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=AI-WISHLIST-GENERATOR&theme=radical&hide_border=true" alt="Featured Project" />
+  <a href="https://github.com/Bernadettechukwuedo/AI-Wishlist-Generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=AI-Wishlist-Generator&theme=radical&hide_border=true" alt="Featured Project" />
   </a>
 
-  <a href="https://github.com/Bernadettechukwuedo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=Textlator&theme=radical&hide_border=true" alt="Featured Project" />
-</a>
-  <a href="https://github.com/Bernadettechukwuedo">
+  <a href="https://github.com/Bernadettechukwuedo/Textlator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=Textlator&theme=radical&hide_border=true" alt="Featured Project" />
+  </a>
+
+  <a href="https://github.com/Bernadettechukwuedo/Bernadettes-Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=Bernadettes-Portfolio&theme=radical&hide_border=true" alt="Featured Project" />
   </a>
 
