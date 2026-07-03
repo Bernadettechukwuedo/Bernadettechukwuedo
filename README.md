@@ -76,12 +76,6 @@ I'm a versatile engineer who loves working across the entire stack — from craf
 
 <div align="center">
 
-  <!-- GitHub stats with dark theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Bernadettechukwuedo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernadettechukwuedo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
-
-  <br>
-
   <!-- Streak stats -->
   <img src="https://streak-stats.demolab.com/?user=Bernadettechukwuedo&theme=radical&hide_border=true" alt="GitHub Streak" />
 
