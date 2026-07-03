@@ -19,6 +19,10 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Bernadettechukwuedo&color=6A5ACD&style=flat-square" alt="Profile views" />
 
+    <a href="https://bernadettechuks.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-%236A5ACD.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Portfolio" />
+  </a>
+
 </div>
 
 ---
@@ -94,15 +98,18 @@ I'm a versatile engineer who loves working across the entire stack — from craf
 
 <div align="center">
 
-  <!-- You can replace these with your actual repos using this format -->
-  <!-- Pin your best repos in your GitHub profile settings for top visibility -->
   <a href="https://github.com/Bernadettechukwuedo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=YOUR_REPO_NAME&theme=radical&hide_border=true" alt="Featured Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=AI-WISHLIST-GENERATOR&theme=radical&hide_border=true" alt="Featured Project" />
+  </a>
+
+  <a href="https://github.com/Bernadettechukwuedo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=Textlator&theme=radical&hide_border=true" alt="Featured Project" />
+</a>
+  <a href="https://github.com/Bernadettechukwuedo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bernadettechukwuedo&repo=Bernadettes-Portfolio&theme=radical&hide_border=true" alt="Featured Project" />
   </a>
 
 </div>
-
-> 💡 **Pro tip:** Pin your best repositories in your GitHub profile settings so they appear at the top of your profile!
 
 ---
 
@@ -116,7 +123,7 @@ I'm a versatile engineer who loves working across the entire stack — from craf
   
    <a href="https://www.linkedin.com/in/bernadettechukwuedo/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> -->
+  </a> 
 
 </div>
 
